@@ -1,1 +1,7 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZamanZahid&hide_border=true" alt="GitHub Streak" /></a>
+
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZamanZahid&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+  
+</p>
