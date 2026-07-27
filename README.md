@@ -10,6 +10,14 @@
 </p>
 
 
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZamanZahid&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" /></a>
+
+
+
+
+
 ![GitHubCard](https://githubcard.com/ZamanZahid.svg)
 
 
@@ -18,4 +26,3 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZamanZahid&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" /></a>
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=ZamanZahid&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats) 
