@@ -11,3 +11,6 @@
 
 
 ![GitHubCard](https://githubcard.com/ZamanZahid.svg)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZamanZahid&theme=holi)
