@@ -16,9 +16,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZamanZahid&theme=holi)
 
 
-
-<p align="center">
-     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZamanZahid&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" /></a> 
-</p>
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZamanZahid&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" /></a>
